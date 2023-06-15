@@ -1,0 +1,31 @@
+.fotoperfil{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.textoinicio{
+    text-align: center;
+    font-size: larger;
+}
+
+.logored{
+    width: 90%;
+    height: 100%;   
+}
+.paws{
+    color: rgb(25, 79, 179);
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.reco{
+    font-size: x-small;
+    font-weight: bold;
+}
+.fotope{
+    width: 500px;
+    height: 300px;
+}
+
+
+
